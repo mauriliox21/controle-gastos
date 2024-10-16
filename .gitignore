@@ -37,3 +37,5 @@ yarn-error.*
 # sensetive data
 google-services.json
 GoogleService-Info.plist
+
+android/
